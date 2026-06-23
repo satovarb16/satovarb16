@@ -1,7 +1,5 @@
 # Santiago Tovar Brousset
 
-AI Engineer, recién graduado de UF (Computer Engineering, mayo 2026). Construyo sistemas agénticos y servidores MCP, sobre todo con Claude Code.
-
 Lima 🇵🇪 / Gainesville, FL 🇺🇸 — español, inglés, italiano.
 
 Buscando rol de AI Engineer / Agentic Systems Engineer, en US (STEM OPT) o LATAM (sin restricción de visa).
